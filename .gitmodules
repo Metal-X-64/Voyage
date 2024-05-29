@@ -1,0 +1,6 @@
+[submodule "themes/tp2"]
+	path = themes/tp2
+	url = https://github.com/Metal-X-64/4w4
+[submodule "plugins/carrousel"]
+	path = plugins/carrousel
+	url = https://github.com/Metal-X-64/carrousel
